@@ -11,7 +11,7 @@ on:
       #This has a time zone
     #- cron: 43 9-16/2 * * 1-5 #this is a comment
     #- cron: "*/15 * * * *"
-    - cron: "*/1 * * * *"
+    - cron: "*/5 * * * *"
 
 
 jobs:
